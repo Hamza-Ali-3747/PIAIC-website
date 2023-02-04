@@ -27,7 +27,7 @@ import {
         'https://images.unsplash.com/photo-1598550874175-4d0ef436c909?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80',
     },
     {
-      name: 'Noor',
+      name: 'Zainab',
       role: 'CNC Developer',
       content:
         "nice explanation of the videos. visually attractive and descriptive. questions were great as well. learnt a lot of stuff. teaches you what, when, where, why, and how to give correct feedback!",
@@ -40,7 +40,7 @@ import {
       content:
         'Excellent course. I started it being a bit skeptical, just with the intention to go quickly through some video scripts. but I changed my mind. There is so much to learn here!',
       avatar:
-        'https://images.unsplash.com/photo-1606513542745-97629752a13b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80',
+        '/images/hanan.png',
     },
   ];
   
